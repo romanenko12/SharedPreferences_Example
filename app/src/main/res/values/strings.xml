@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences_Example</string>
+    <string name="default_time">00:30</string>
+    <string name="button_text">Start</string>
+</resources>
